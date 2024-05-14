@@ -1,0 +1,99 @@
+body{
+	background-color: #f4f4f4f4;
+	color: #555;
+	font-family:garamond;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+
+#main-header{
+	background-color: black;
+	color:whitesmoke;
+	text-align:center;
+}
+
+#navbar{
+	background-color:#333;
+	color: #fff;
+	text-align:center;
+}
+
+#navbar li{
+	display:inline;
+}
+
+#navbar a{
+	color:#fff;
+	text-decoration: none;
+	font-size: 16px;
+	padding-right:15px;
+}
+
+#showcase{
+	background-image:url("../images/showcase.jpg");
+	background-position: center;
+	min-height: 80px;
+	margin-bottom:30px;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: 100vw;
+	padding-top: 475px;
+}
+
+#showcase p{
+	color:whitesmoke;
+	font-size:25px;
+	line-height:1.6em;
+	font-style:italic;
+}
+
+#welcome{
+	padding-bottom: 25px;
+}
+
+#main{
+	padding-bottom: 50px;
+}
+
+#books{
+	padding-bottom: 50px;
+}
+
+#form{
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+#main-footer{
+	background-color: #333;
+	color: #f5f5f5;
+	text-align: center;
+	position:fixed;
+	left:0px;
+	bottom:0px;
+	height:30px;
+	width:100%;
+	padding-bottom: 20px;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	font-size: 20px;
+	font-style: italic;
+}
+
+h3{
+	font-size: 16px;
+}
+
+
